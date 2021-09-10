@@ -5,7 +5,7 @@ https://julesclaire.shinyapps.io/binom/
 
 # Contributing:
 
-If you'd like to report a bug or request a new feature, please use the [Issues tab](https://github.com/JuliaClaireLee/pi-estimate/issues) in this repository.
+If you'd like to report a bug or request a new feature, please use the [Issues tab](https://github.com/JuliaClaireLee/binomial-distribution-calculator/issues) in this repository.
 If you have any questions or ideas about this app please [email](mailto:julialee64@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) or reach out on [Linkedin](https://www.linkedin.com/in/julia-lee-5201b0156/)
 
 
